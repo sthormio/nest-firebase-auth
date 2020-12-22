@@ -135,6 +135,7 @@ Now you can run your project and verify your Firebase authentication with a vali
 
 ## References
 - NestJs Docs: https://docs.nestjs.com/
+- Vikash Kumar: https://medium.com/@sharma.vikashkr
 - Tfarras Lib: https://www.npmjs.com/package/@tfarras/nestjs-firebase-auth
 
 Project Github link: https://github.com/sthormio/nest-firebase-auth/ 
